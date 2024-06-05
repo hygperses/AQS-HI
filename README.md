@@ -7,7 +7,7 @@ Approximate query processing techniques play a pivotal role in enhancing the eff
 - GEOS: brew install geos
 - BOOST C++ library : brew install boost
 
-- ## Build and Run test
+## Build and Run test
 - Compile the project using CMake. It will build a new direcotory named as ``` build```
   ```./build.sh ```
 - Run unit tests 
